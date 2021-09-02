@@ -1,0 +1,19 @@
+baseurl = "https://cyberknight777.github.io/"
+languageCode = "en-us"
+title = "Knight's Blog"
+theme = "hello-friend"
+copyright = ""
+paginate = 5
+
+[params]
+  subtitle = "A simple theme for Hugo"
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about"
+  [[menu.main]]
+    identifier = "showcase"
+    name = "Showcase"
+    url = "/showcase"

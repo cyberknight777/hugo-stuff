@@ -17,3 +17,7 @@ paginate = 5
     identifier = "showcase"
     name = "Showcase"
     url = "/showcase"
+  [[menu.main]]
+    identifier = "posts"
+    name = "Posts"
+    url = "/posts"

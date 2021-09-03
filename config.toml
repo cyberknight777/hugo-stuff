@@ -1,23 +1,88 @@
 baseurl = "https://cyberknight777.dev"
 languageCode = "en-us"
-title = "Knight's Blog"
-theme = "hello-friend"
+theme = "hello-friend-ng"
 copyright = ""
-paginate = 5
+
+[author]
+  name = "Cyber Knight"
+
+[languages]
+  [languages.en]
+    homeSubtitle = "Amateur android kernel developer and linux enthusiast"
+    title = "Cyber Knight"
+
+  [languages.en.params.logo]
+    logoHomelink = "/"
+    logoMark     = "~> "
+    logoText     = "cyberknight777"
+
+[permalinks]
+  posts = "/posts/:year/:month/:title/"
 
 [params]
-  subtitle = "A simple theme for Hugo"
+
+disableReadOtherPosts = false
+
+enableThemeToggle = true
+  [params.footer]
+    trademark = true
+    author = true
+
+    topText = [
+      "Inspired by <a href=\"https://baalajimaestro.me\">baalaji</a> and <a href=\"https://nathanchance.dev\">nathanchance</a>"
+    ]
+    bottomtext = [
+      "Powered by <a href=\"http://gohugo.io\">Hugo</a>",
+      "Theme made by <a href=\"https://github.com/rhazdon\">Djordje Atlialp</a>"
+    ]
+
+  description = "Knight's personal website"
+  keywords = "homepage, site"
+  images = [""]
+  
+  [params.portrait]
+    path = "/img/logo.png"
+    alt = "Avatar"
+    maxWidth = "100px"
+
+  
+  [[params.social]]
+    name = "github"
+    url  = "https://github.com/cyberknight777"
+
+  [[params.social]]
+    name = "gitlab"
+    url  = "https://gitlab.com/cyberknight777"
+
+  [[params.social]]
+    name = "email"
+    url  = "mailto:cyberknight755@gmail.com"
+
+  [[params.social]]
+    name = "gpg"
+    url  = "/key"
+
+  [[params.social]]
+    name = "instagram"
+    url  = "https://instagram.com/cyberknight_777"
+
+  [[params.social]]
+    name = "telegram"
+    url  = "https://t.me/cyberknight777"
 
 [menu]
   [[menu.main]]
     identifier = "about"
     name = "About"
     url = "/about"
-  [[menu.main]]
-    identifier = "showcase"
-    name = "Showcase"
-    url = "/showcase"
+    weight = 1  
   [[menu.main]]
     identifier = "posts"
     name = "Posts"
     url = "/posts"
+    weight = 2
+  [[menu.main]]
+    identifier = "downloads"
+    name = "Downloads"
+    url = "/downloads"
+    weight = 3

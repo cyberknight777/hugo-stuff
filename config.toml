@@ -24,6 +24,7 @@ copyright = ""
 disableReadOtherPosts = false
 
 enableThemeToggle = true
+
   [params.footer]
     trademark = true
     author = true

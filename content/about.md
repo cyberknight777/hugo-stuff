@@ -22,7 +22,7 @@ If you're on telegram, I'm sure you will see me almost always online on telegram
 
 I use a OnePlus 7T Pro (hotdog) as my main phone. I probably would shift to a ```Google Pixel``` for my next phone.
 
-I'm PM friendly on any platform unless if you're gonna ask skid questions or gonna spam my inbox with logs.
+I'm PM friendly on any platform unless if you're gonna ask skid questions or gonna spam my inbox with logs. If you have any important queries to ask me, feel free to drop it in my inbox **directly** instead of just sending a *hi*.
 
 Some of the stuff I've done lately(projects/teams/contributions): 
 
@@ -34,6 +34,6 @@ Some of the stuff I've done lately(projects/teams/contributions):
 * Contributed in **[Pentesting-Framework](https://github.com/abhackerofficial/pentesting-framework)**, A bundle of penetration testing tools.
 * Contributed in **[rxfetch](https://github.com/mangeshrex/rxfetch)**, A fetch utility written in bash.
 * Contributed in **[PWN-Term](https://github.com/pwn-term)**, A neoterm fork based on termux packages with bleeding edge support.
-* and many more where you can check in my git(hub/lab) repositories.
+* and many more where you can check in my git(hub/lab) repositories and you can see the progress of whatever I do in my **[telegram channel](https://t.me/cyberknight_777)**.
 
 Atm, I'm working on **[NetErnels](https://github.com/neternels)**, **[DragonHeart](https://github.com/cyberknight777/dragonheart_kernel_oneplus_sm8150)**, **[this site](https://cyberknight777.dev)**, finishing up college assignments and enjoying along the way.

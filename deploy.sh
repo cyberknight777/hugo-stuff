@@ -22,3 +22,11 @@ git push
 
 # Come Back up to the Project Root
 cd ..
+
+git add .
+if [ $# -eq 1 ]
+  then msg="$1"
+fi
+git commit -S -s -m "$msg"
+
+git push

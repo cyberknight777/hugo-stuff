@@ -11,7 +11,7 @@ cd public
 git add .
 
 # Commit changes.
-msg="rebuilding site `date`"
+msg="rebuilding site `date +"%Y%m%d-%H%M"`"
 if [ $# -eq 1 ]
   then msg="$1"
 fi
@@ -30,3 +30,5 @@ fi
 git commit -S -s -m "$msg"
 
 git push
+
+curl -X POST https://api.telegram.org/bot$TOKEN/sendMessage -d chat_id=-1001361882613 -d "text=Rebuilt site at $(date +"%Y%m%d-%H%M")"

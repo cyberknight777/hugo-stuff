@@ -112,7 +112,12 @@
         </p>
       {{- end }}
     </div>
-
+    
+    <hr />
+    {{- if isset .Site.Params "utterancesrepo" -}}
+		{{ partial "utterances.html" . }}
+		{{- end -}}
+    
     {{- if .Site.Params.EnableSharingButtons }}
       <hr />
       <div class="sharing-buttons">
@@ -121,7 +126,7 @@
     {{- end }}
 
     {{ partial "pagination-single.html" . }}
-
+    
     {{ if .Site.DisqusShortname }}
       {{ if not (eq .Params.Comments "false") }}
         <div id="comments">

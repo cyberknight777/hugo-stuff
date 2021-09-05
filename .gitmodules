@@ -4,3 +4,6 @@
 [submodule "public"]
 	path = public
 	url = git@github.com:cyberknight777/cyberknight777.github.io.git
+[submodule "themes/hello-friend-ng"]
+	path = themes/hello-friend-ng
+	url = https://github.com/baalajimaestro/modified-hello-friend-ng

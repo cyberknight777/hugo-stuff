@@ -25,9 +25,9 @@ disableReadOtherPosts = false
 
 enableThemeToggle = true
 
-utterancesrepo = "cyberknight777/hugo-stuff"
+utterancesRepo = "cyberknight777/hugo-stuff"
 
-utterancestheme = "github-dark"
+utterancesTheme = "github-dark"
 
 enableSharingbuttons = true
 

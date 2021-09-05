@@ -7,7 +7,7 @@ toc: true
 
 ## Introduction
 
-Well, I was feeling bored so I was chatting with a dude called [Anurag](https://t.me/anuragroy) in a group called [DEs/WMs](https://t.me/de_wm) regarding android kernels then he told me how his kernel was underperforming even after ricing it alot. I suggested him to rebase his kernel and he said he was unclear about the mentioned topic, so i wrote a long message onto how one can rebase a kernel and I thought that I should write it as a post in my site. So here I am writing this small guide at 04:30 in the morning.
+Well, I was feeling bored so I was chatting with a dude called [Anurag](https://t.me/anuragroy) in a group called [DEs/WMs](https://t.me/de_wm) regarding android kernels then he told me how his kernel was underperforming even after ricing it alot. I suggested him to rebase his kernel and he said he was unclear about the mentioned topic, so I wrote a long message onto how one can rebase a kernel and I thought that I should write it as a post in my site. So here I am writing this small guide at 04:30 in the morning.
 
 
 ## What is rebasing a kernel

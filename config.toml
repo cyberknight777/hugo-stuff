@@ -21,9 +21,15 @@ copyright = ""
 
 [params]
 
+enableRobotsTXT = true
+
+enableEmoji = true
+
 disableReadOtherPosts = false
 
 enableThemeToggle = true
+
+disable404 = false
 
 utterancesRepo = "cyberknight777/hugo-stuff"
 
@@ -55,26 +61,32 @@ enableSharingbuttons = true
   
   [[params.social]]
     name = "github"
+    icon = "lab la-github la-2x"
     url  = "https://github.com/cyberknight777"
 
   [[params.social]]
     name = "gitlab"
+    icon = "lab la-gitlab la-2x"
     url  = "https://gitlab.com/cyberknight777"
 
   [[params.social]]
     name = "email"
+    icon = "las la-envelope la-2x"
     url  = "mailto:cyberknight755@gmail.com"
 
   [[params.social]]
-    name = "gpg"
+    name = "GnuPG"
+    icon = "las la-key la-2x"
     url  = "/key"
 
   [[params.social]]
     name = "instagram"
+    icon = "lab la-instagram la-2x"
     url  = "https://instagram.com/cyberknight_777"
 
   [[params.social]]
     name = "telegram"
+    icon = "lab la-telegram la-2x"
     url  = "https://t.me/cyberknight777"
 
 [menu]

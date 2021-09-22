@@ -22,7 +22,7 @@ If you're on telegram, I'm sure you will see me almost always online on telegram
 
 I use a OnePlus 7T Pro (hotdog) as my main phone. I probably would shift to a ```Google Pixel``` for my next phone.
 
-I'm PM friendly on any platform unless if you're gonna ask skid questions or gonna spam my inbox with logs. If you have any important queries to ask me, feel free to drop it in my inbox **directly** instead of just sending a *hi*.
+I'm PM friendly on any platform unless if you're gonna ask skid questions or gonna spam my inbox with logs. If you have any important queries to ask me, feel free to drop it in my inbox **directly** or join my **[telegram chat](https://t.me/knightschat)** instead of just sending a *hi*.
 
 Some of the stuff I've done lately(projects/teams/contributions): 
 

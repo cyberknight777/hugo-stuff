@@ -31,7 +31,7 @@ Some of the stuff I've done lately(projects/teams/contributions):
 * Developer of **[ThunderStrike-FrameWork](https://gitlab.com/cyberknight777/thunderstrike-framework)** *(unreleased)*, A framework intended to facilitate penetration testers with modules ranging from recon to actual pentesting.
 * Developer of **[DragonHeart](https://github.com/cyberknight777/dragonheart_kernel_oneplus_sm8150)** *(unreleased)*, An android linux kernel for the OnePlus 7 series devices.
 * Developer of **[osfetch-rs](https://gitlab.com/cyberknight777/osfetch-rs)**, A fetch utility written in rust.
-* Developer of **[SpamProtection-rs](https://github.com/intellivoid/spamprotection-rs)**, A rust wrapper for SpamProtection API.
+* Developer of **[SpamProtection-rs](https://github.com/intellivoid/spamprotection-rust)**, A rust wrapper for SpamProtection API.
 * Contributed in **[Pentesting-Framework](https://github.com/abhackerofficial/pentesting-framework)**, A bundle of penetration testing tools.
 * Contributed in **[rxfetch](https://github.com/mangeshrex/rxfetch)**, A fetch utility written in bash.
 * Contributed in **[PWN-Term](https://github.com/pwn-term)**, A neoterm fork based on termux packages with bleeding edge support.

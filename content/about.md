@@ -22,16 +22,16 @@ If you're on telegram, I'm sure you will see me almost always online on telegram
 
 I use a OnePlus 7T Pro (hotdog) as my main phone. I probably would shift to a ```Google Pixel``` for my next phone.
 
-I'm PM friendly on any platform unless if you're gonna ask skid questions or gonna spam my inbox with logs. If you have any important queries to ask me, feel free to drop it in my inbox **directly** or join my **[telegram chat](https://t.me/knightschat)** instead of just sending a *hi*.
+I'm PM friendly on any platform unless if you're gonna ask skid questions or gonna spam my inbox with logs. If you have any important queries to ask me, feel free to read my **[FAQ](https://cyberknight777.dev/faq)** & join my **[telegram chat](https://t.me/knightschat)** instead of just sending a *hi*.
 
 Some of the stuff I've done lately(projects/teams/contributions): 
 
 * Founder of **[NetErnels](https://github.com/neternels)**, A team to build nethunterized kernels for devices out there in the world.
-* Founder of **[knight-bot](https://gitlab.com/cyberknight777/knight-bot)**, A telegram bot written in rust with teloxide framework.
-* Founder of **[ThunderStrike-FrameWork](https://gitlab.com/cyberknight777/thunderstrike-framework)** *(unreleased)*, A framework intended to facilitate penetration testers with modules ranging from recon to actual pentesting.
-* Founder of **[DragonHeart](https://github.com/cyberknight777/dragonheart_kernel_oneplus_sm8150)** *(unreleased)*, An android linux kernel for the OnePlus 7 series devices.
-* Founder of **[osfetch-rs](https://gitlab.com/cyberknight777/osfetch-rs)**, A fetch utility written in rust.
-* Founder of **[SpamProtection-rs](https://github.com/intellivoid/spamprotection-rs)**, A rust wrapper for SpamProtection API.
+* Developer of **[knight-bot](https://gitlab.com/cyberknight777/knight-bot)**, A telegram bot written in rust with teloxide framework.
+* Developer of **[ThunderStrike-FrameWork](https://gitlab.com/cyberknight777/thunderstrike-framework)** *(unreleased)*, A framework intended to facilitate penetration testers with modules ranging from recon to actual pentesting.
+* Developer of **[DragonHeart](https://github.com/cyberknight777/dragonheart_kernel_oneplus_sm8150)** *(unreleased)*, An android linux kernel for the OnePlus 7 series devices.
+* Developer of **[osfetch-rs](https://gitlab.com/cyberknight777/osfetch-rs)**, A fetch utility written in rust.
+* Developer of **[SpamProtection-rs](https://github.com/intellivoid/spamprotection-rs)**, A rust wrapper for SpamProtection API.
 * Contributed in **[Pentesting-Framework](https://github.com/abhackerofficial/pentesting-framework)**, A bundle of penetration testing tools.
 * Contributed in **[rxfetch](https://github.com/mangeshrex/rxfetch)**, A fetch utility written in bash.
 * Contributed in **[PWN-Term](https://github.com/pwn-term)**, A neoterm fork based on termux packages with bleeding edge support.

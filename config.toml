@@ -101,7 +101,12 @@ enableSharingbuttons = true
     url = "/posts"
     weight = 2
   [[menu.main]]
+    identifier = "faq"
+    name = "F.A.Q"
+    url = "/faq"
+    weight = 3
+  [[menu.main]]
     identifier = "downloads"
     name = "Downloads"
     url = "/downloads"
-    weight = 3
+    weight = 4

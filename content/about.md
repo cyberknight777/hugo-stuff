@@ -4,7 +4,7 @@ date: 2021-09-04T01:50:45+08:00
 draft: false
 ---
 
-I'm knight, an 18 year old, you may know me as knight on most social media platforms.
+I'm knight, an 19 year old, you may know me as cyberknight777 on most social media platforms.
 
 I primarly do android kernel development(not a pro). In my opinion, a kernel is like a baby, where you gotta set a pathway for the child's life and how to bring it up in the world. Same concept applies here. You choose what you want for your kernel which makes it stable and mature. I learn something new when I try some experimental stuff.
 

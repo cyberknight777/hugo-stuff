@@ -8,7 +8,7 @@ copyright = ""
 
 [languages]
   [languages.en]
-    homeSubtitle = "Amateur android kernel developer and linux enthusiast"
+    homeSubtitle = "Your friendly neighbourhood kernel developer"
     title = "Cyber Knight"
 
   [languages.en.params.logo]

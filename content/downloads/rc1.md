@@ -1,10 +1,10 @@
 ---
-title: "Downloads"
+title: "Release Candidate 1 For OP7"
 date: 2021-09-04T00:59:20+08:00
 draft: false
 ---
 
-## DragonHeart kernel for OP7
+## DragonHeart kernel
 
 **Release Name**: *rc1*
 

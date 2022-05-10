@@ -20,7 +20,7 @@ I'm a friendly guy once you get to know me. I follow by this simple principle: I
 
 If you're on telegram, I'm sure you will see me almost always online on telegram. Some may even think I don't sleep at all. The truth is, I sleep when everyone is in deep sleep. Plus I don't close my telegram client because I do stuff and at times I switch to telegram to check messages.
 
-I use a OnePlus 7T Pro (hotdog) as my main phone. I probably would shift to a ```Google Pixel``` for my next phone.
+I was using a OnePlus 7T Pro (hotdog) as my main phone but I traded it for a OnePlus 7T Pro 5G McLaren Edition (hotdogg).
 
 I'm PM friendly on any platform unless if you're gonna ask skid questions or gonna spam my inbox with logs. If you have any important queries to ask me, feel free to read my **[FAQ](https://cyberknight777.dev/faq)** & join my **[telegram chat](https://t.me/knightschat)** instead of just sending a *hi*.
 
@@ -35,6 +35,7 @@ Some of the stuff I've done lately(projects/teams/contributions):
 * Contributed in **[Pentesting-Framework](https://github.com/abhackerofficial/pentesting-framework)**, A bundle of penetration testing tools.
 * Contributed in **[rxfetch](https://github.com/mangeshrex/rxfetch)**, A fetch utility written in bash.
 * Contributed in **[PWN-Term](https://github.com/pwn-term)**, A neoterm fork based on termux packages with bleeding edge support.
+* A maintainer in **[PixelOS](https://pixelos.vercel.app)** - a PixelExperience fork with extra optimizations and changes for the hotdog and hotdogg.
 * and many more where you can check in my git(hub/lab) repositories and you can see the progress of whatever I do in my **[telegram channel](https://t.me/cyberknight_777)**.
 
 Atm, I'm working on **[NetErnels](https://github.com/neternels)**, **[DragonHeart](https://github.com/cyberknight777/dragonheart_kernel_oneplus_sm8150)**, **[this site](https://cyberknight777.dev)**, finishing up college assignments and enjoying along the way.

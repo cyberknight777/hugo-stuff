@@ -22,7 +22,7 @@ I'm a friendly guy once you get to know me. I follow by this simple principle: I
 
 If you're on telegram, I'm sure you will see me almost always online on telegram. Some may even think I don't sleep at all. The truth is, I sleep when everyone is in deep sleep. Plus I don't close my telegram client because I do stuff and at times I switch to telegram to check messages.
 
-I was using a OnePlus 7T Pro (hotdog) as my main phone but I traded it for a OnePlus 7T Pro 5G McLaren Edition (hotdogg) I also own the Xiaomi Redmi Note 10 (sunny).
+I was using a OnePlus 7T Pro (hotdog) as my main phone but I traded it for a OnePlus 7T Pro 5G McLaren Edition (hotdogg). I also own the Xiaomi Redmi Note 10 (sunny) and Redmi Note 9 (merlin).
 
 I'm PM friendly on any platform unless if you're gonna ask skid questions or gonna spam my inbox with logs. If you have any important queries to ask me, feel free to read my **[FAQ](https://cyberknight777.dev/faq)** & join my **[telegram chat](https://t.me/knightschat)** instead of just sending a *hi*.
 
@@ -39,6 +39,7 @@ Some of the stuff I've done lately(projects/teams/contributions):
 * Contributed in **[PWN-Term](https://github.com/pwn-term)**, A neoterm fork based on termux packages with bleeding edge support.
 * A maintainer in **[PixelOS](https://pixelos.net)** - an AOSP fork aiming to provide a Pixel-like feel for the hotdog and hotdogg.
 * A maintainer in **[YAAP](https://robotwombat.github.io/YAAP-website/)** - an AOSP fork whose main priority is code quality and usability for the sunny.
+* A maintainer in **[Paranoid Android](https://paranoidandroid.co)** - probably the best CAF/CLO based custom ROM for the hotdogg and sunny.
 
 * and many more where you can check in my git(hub/lab) repositories and you can see the progress of whatever I do in my **[telegram channel](https://t.me/cyberknight_777)**.
 

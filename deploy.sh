@@ -31,4 +31,4 @@ git commit -S -s -m "$msg"
 
 git push
 
-curl -X POST https://api.telegram.org/bot$TOKEN/sendMessage -d chat_id=-1001361882613 -d "text=Rebuilt site at $(date +"%Y%m%d-%H%M")"
+#curl -X POST https://api.telegram.org/bot$TOKEN/sendMessage -d chat_id=-1001361882613 -d "text=Rebuilt site at $(date +"%Y%m%d-%H%M")"

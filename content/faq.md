@@ -3,35 +3,31 @@ title: "F.A.Q"
 date: 2021-10-05T20:29:23+08:00
 ---
 
-If you're reading this, either you've been redirected by myself when you PM'd me or you're just bored and wanted to read this. Nonetheless, don't PM me in case if your questions are relevant in any of the below questions.
+If you're reading this, there is a high possibility that you have been redirected by myself when you privately messaged me or you're just bored and wanted to read this. Nonetheless, don't privately message me if your questions have been answered in this FAQ.
 
 Q: Does DragonHeart for OP7 work in SDCARDFS roms ?
 
-A: At the date of writing this post (05/10/2021), DragonHeart does not support SDCARDFS roms as due to some weird issue, it does not boot on most SDCARDFS roms.
+A: No.
 
 Q: Does DragonHeart for OP7 boot in OxygenOS ?
 
-A: At the date of writing this post (05/10/2021), It boots on OxygenOS for OP7 series but not on OxygenOS for OP7T series.
+A: No.
 
-Q: What is DragonHeart for OP7 focused on ?
+Q: Can I flash DragonHeart on a different ROM ?
 
-A: It is focused on being balancing the tip between battery and performance.
+A: No, DragonHeart is AOSPA-specific.
 
-Q: The nethunter kernel does not boot on OOS, what should I do ?
+Q: The nethunter kernel does not boot on OOS or any other stock ROM, what should I do ?
 
-A: OOS is not supported for any of my nethunter kernels for OP7 as, it is never recommended to use nethunter on any OEM-made ROM.
+A: It is not recommended to use nethunter on any stock ROM.
 
-Q: Why do I get error xyz when building your kernel ?
+Q: Why does your kernel have **insert a weird bug** ?
 
-A: If the kernel you're using is of my own bringup, I tend to use only [EvaGCC](https://github.com/mvaisakh/gcc-arm64) with it. Optimizations are hardcoded hence the kernel can only be built with EvaGCC.
+A: Post a detailed log of the mentioned issue in [here](https://t.me/neternels_chat) if the kernel's name is NetErnels or [here](https://t.me/knightschat) if the kernel's name is DragonHeart.
 
-Q: Why does your kernel have xyz problems ?
+Q: Can you add **insert a feature** in your kernel ?
 
-A: Post a detailed log of the mentioned issue in [here](https://t.me/neternels_chat) if the kernel is branded as neternels or [here](https://t.me/knightschat) if the kernel is branded as dragonheart.
-
-Q: Can you add xyz feature in your kernel ?
-
-A: Yesn't. It pretty much depends on what the feature is. If its to help you do some shitty-ass stuff like spectrum, 69fps pubg, then the answer is **NO**.
+A: It pretty much depends on what the feature is. DM me on Telegram with your feature request.
 
 For nethunter related questions, do join the nethunter support group at [here](https://t.me/kalinethunterofficialsupport).
 

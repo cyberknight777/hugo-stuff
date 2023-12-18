@@ -6,7 +6,7 @@ draft: false
 
 I'm knight, a 20 year old, you may know me as cyberknight777 on most social media platforms.
 
-I primarly do android kernel development(not a pro). In my opinion, a kernel is like a baby, where you gotta set a pathway for the child's life and how to bring it up in the world. Same concept applies here. You choose what you want for your kernel which makes it stable and mature. I learn something new when I try some experimental stuff.
+I primarly do android kernel development(not a pro). In my opinion, a kernel is like a baby, where you gotta set a pathway for the child's life and how to bring it up in the world. The same concept applies here. You choose what you want for your kernel which makes it stable and mature. I learn something new when I experiment with my kernel.
 
 I often do AOSP device development(kind of an amateur). I do it so I do not have to depend on others to run a custom ROM on my devices.
 
@@ -14,7 +14,7 @@ I'm a Linux enthusiast. I use a GNU+Linux distribution called ```Arch Linux.``` 
 
 I can code in Rust, write bash scripts, write some amount of C/C++, VB.net and atm learning nim when I can.
 
-I use ```GNU Emacs``` as my main editor. I also use it for various other reasons as its very extensive(I also use vim in emacs at times & my default editor for git commits is vim). I won't hate you if you're a vim user btw. I don't use telega or eaf for that matter because nothing can really behave as stable(yet bloated) as a standard browser like firefox or even a standard telegram client like telegram-desktop.
+I use ```GNU Emacs``` as my main editor. I also use it for various other reasons as its very extensive. I won't hate you if you're a vim user btw. I don't use telega or eaf for that matter because nothing can really behave as stable(yet bloated) as a standard browser like firefox or even a standard telegram client like telegram-desktop.
 
 I use github for my android kernel development stuff while I use gitlab for my personal projects(more on that later). The reason I chose to use gitlab for my personal projects is because github enforced DMCA too much(not to say gitlab doesn't enforce DMCA but they're not as strict as github).
 
@@ -22,7 +22,7 @@ I'm a friendly guy once you get to know me. I follow by this simple principle: I
 
 If you're on telegram, I'm sure you will see me almost always online on telegram. Some may even think I don't sleep at all. The truth is, I sleep when everyone is in deep sleep. Plus I don't close my telegram client because I do stuff and at times I switch to telegram to check messages.
 
-I was using a OnePlus 7T Pro (hotdog) as my main phone but I traded it for a OnePlus 7T Pro 5G McLaren Edition (hotdogg). I also own the Xiaomi Redmi Note 10 (sunny) and Redmi Note 9 (merlin).
+I am using an iPhone 15 Pro Max as my main phone alongside a OnePlus 7T Pro 5G McLaren Edition (hotdogg) and Redmi Note 10 (sunny) as my secondary devices. I also own a Redmi Note 9 (merlin) yet I barely use it.
 
 I'm PM friendly on any platform unless if you're gonna ask skid questions or gonna spam my inbox with logs. If you have any important queries to ask me, feel free to read my **[FAQ](https://cyberknight777.dev/faq)** & join my **[telegram chat](https://t.me/knightschat)** instead of just sending a *hi*.
 

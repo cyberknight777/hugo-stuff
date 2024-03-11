@@ -10,7 +10,7 @@ I primarly do android kernel development(not a pro). In my opinion, a kernel is 
 
 I often do AOSP device development(kind of an amateur). I do it so I do not have to depend on others to run a custom ROM on my devices.
 
-I'm a Linux enthusiast. I use a GNU+Linux distribution called ```Arch Linux.``` Yeah no, I'm not an arch fanboi, I just love using the distro as it fits my needs. I also use a window manager called i3 instead of using a desktop environment(been using i3 for about 3 now, ain't gonna change anytime soon).
+I own a 13" MacBook Air M1 and 14" HP 14-bw053au. I use the MacBook mostly for documenting, browsing and occasional media playback. However for the other laptop, I use a GNU+Linux distribution called ```Arch Linux``` as I'm a Linux enthusiast. Yeah no, I'm not an arch fanboi, I just love using the distro as it fits my needs. I also use a window manager called i3 instead of using a desktop environment(been using i3 for about 3 now, ain't gonna change anytime soon).
 
 I can code in Rust, write bash scripts, write some amount of C/C++, VB.net and atm learning nim when I can.
 

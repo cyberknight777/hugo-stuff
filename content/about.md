@@ -18,8 +18,6 @@ I use ```GNU Emacs``` as my main editor. I also use it for various other reasons
 
 I use github for my android kernel development stuff while I use gitlab for my personal projects(more on that later). The reason I chose to use gitlab for my personal projects is because github enforced DMCA too much(not to say gitlab doesn't enforce DMCA but they're not as strict as github).
 
-I'm a friendly guy once you get to know me. I follow by this simple principle: I'm nice to those who are nice to me.
-
 If you're on telegram, I'm sure you will see me almost always online on telegram. Some may even think I don't sleep at all. The truth is, I sleep when everyone is in deep sleep. Plus I don't close my telegram client because I do stuff and at times I switch to telegram to check messages.
 
 I am using an iPhone 15 Pro Max as my main phone alongside a OnePlus 7T Pro 5G McLaren Edition (hotdogg) and Redmi Note 10 (sunny) as my secondary devices. I also own a Redmi Note 9 (merlin) yet I barely use it.

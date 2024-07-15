@@ -1,5 +1,6 @@
 baseurl = "https://cyberknight777.dev"
 languageCode = "en-us"
+title = 'Cyber Knight'
 theme = "hello-friend-ng"
 copyright = ""
 
@@ -7,9 +8,8 @@ copyright = ""
   name = "Cyber Knight"
 
 [languages]
-  [languages.en]
+  [languages.en.params]
     homeSubtitle = "Your friendly neighbourhood kernel developer"
-    title = "Cyber Knight"
 
   [languages.en.params.logo]
     logoHomelink = "/"

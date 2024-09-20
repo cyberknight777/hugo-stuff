@@ -110,3 +110,8 @@ enableSharingbuttons = true
     name = "Downloads"
     url = "/downloads"
     weight = 4
+  [[menu.main]]
+    identifier = "webring"
+    name = "WebRing"
+    url = "https://webri.ng/webring/chads/random"
+    weight = 5

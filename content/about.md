@@ -35,9 +35,9 @@ Some of the stuff I've done lately(projects/teams/contributions):
 * Contributed in **[Pentesting-Framework](https://github.com/abhackerofficial/pentesting-framework)**, A bundle of penetration testing tools.
 * Contributed in **[rxfetch](https://github.com/mangeshrex/rxfetch)**, A fetch utility written in bash.
 * Contributed in **[PWN-Term](https://github.com/pwn-term)**, A neoterm fork based on termux packages with bleeding edge support.
-* A maintainer in **[PixelOS](https://pixelos.net)** - an AOSP fork aiming to provide a Pixel-like feel for the sunny and cancunf.
+* A maintainer in **[PixelOS](https://pixelos.net)** - an AOSP fork aiming to provide a Pixel-like feel for sunny and cancunf.
 * A maintainer in **[YAAP](https://robotwombat.github.io/YAAP-website/)** - an AOSP fork whose main priority is code quality and usability for sunny and cancunf.
-* A maintainer in **[Paranoid Android](https://paranoidandroid.co)** - probably the best CAF/CLO based custom ROM for the hotdogg and sunny.
+* A maintainer in **[Paranoid Android](https://paranoidandroid.co)** - probably the best CAF/CLO based custom ROM for hotdogg and sunny.
 
 * and many more where you can check in my git(hub/lab) repositories and you can see the progress of whatever I do in my **[telegram channel](https://t.me/cyberknight_777)**.
 

@@ -20,7 +20,7 @@ I use github for my android kernel development stuff while I use gitlab for my p
 
 If you're on telegram, I'm sure you will see me almost always online on telegram. Some may even think I don't sleep at all. The truth is, I sleep when everyone is in deep sleep. Plus I don't close my telegram client because I do stuff and at times I switch to telegram to check messages.
 
-I am using an iPhone 15 Pro Max as my main phone alongside a OnePlus 7T Pro 5G McLaren Edition (hotdogg) and Redmi Note 10 (sunny) as my secondary devices. I also own a Redmi Note 9 (merlin) yet I barely use it.
+I am using an iPhone 15 Pro Max as my main phone alongside a OnePlus 7T Pro 5G McLaren Edition (hotdogg), Redmi Note 10 (sunny) and Motorola G54 5G (cancunf) as my secondary devices. I also own a Redmi Note 9 (merlin) yet I barely use it.
 
 I'm PM friendly on any platform unless if you're gonna ask skid questions or gonna spam my inbox with logs. If you have any important queries to ask me, feel free to read my **[FAQ](https://cyberknight777.dev/faq)** & join my **[telegram chat](https://t.me/knightschat)** instead of just sending a *hi*.
 
@@ -35,8 +35,8 @@ Some of the stuff I've done lately(projects/teams/contributions):
 * Contributed in **[Pentesting-Framework](https://github.com/abhackerofficial/pentesting-framework)**, A bundle of penetration testing tools.
 * Contributed in **[rxfetch](https://github.com/mangeshrex/rxfetch)**, A fetch utility written in bash.
 * Contributed in **[PWN-Term](https://github.com/pwn-term)**, A neoterm fork based on termux packages with bleeding edge support.
-* A maintainer in **[PixelOS](https://pixelos.net)** - an AOSP fork aiming to provide a Pixel-like feel for the hotdog and hotdogg.
-* A maintainer in **[YAAP](https://robotwombat.github.io/YAAP-website/)** - an AOSP fork whose main priority is code quality and usability for the sunny.
+* A maintainer in **[PixelOS](https://pixelos.net)** - an AOSP fork aiming to provide a Pixel-like feel for the sunny and cancunf.
+* A maintainer in **[YAAP](https://robotwombat.github.io/YAAP-website/)** - an AOSP fork whose main priority is code quality and usability for sunny and cancunf.
 * A maintainer in **[Paranoid Android](https://paranoidandroid.co)** - probably the best CAF/CLO based custom ROM for the hotdogg and sunny.
 
 * and many more where you can check in my git(hub/lab) repositories and you can see the progress of whatever I do in my **[telegram channel](https://t.me/cyberknight_777)**.

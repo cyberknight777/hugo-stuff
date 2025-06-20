@@ -41,11 +41,11 @@
 <!-- Icons -->
 {{- partial "favicons.html" . }}
 
-{{ template "_internal/schema.html" . }}
-{{ template "_internal/twitter_cards.html" . }}
+{{ partial "schema.html" . }}
+{{ partial "twitter_cards.html" . }}
 
 {{ if isset .Site.Taxonomies "series" }}
-    {{ template "_internal/opengraph.html" . }}
+    {{ partial "opengraph.html" . }}
 {{ end }}
 
 {{ range .Params.categories }}
@@ -74,5 +74,5 @@
 
 <!-- Google Analytics internal template -->
 {{- if .Site.Config.Services.GoogleAnalytics.ID }}
-    {{ template "_internal/google_analytics.html" . }}
+    {{ partial "google_analytics.html" . }}
 {{- end}}

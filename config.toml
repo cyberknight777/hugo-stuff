@@ -37,6 +37,8 @@ utterancesTheme = "github-dark"
 
 enableSharingbuttons = true
 
+  [taxonomies]
+
   [params.author]
     name = "Cyber Knight"
 

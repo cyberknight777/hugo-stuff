@@ -99,24 +99,29 @@ enableSharingbuttons = true
     identifier = "about"
     name = "About"
     url = "/about"
-    weight = 1  
+    weight = 1
+  [[menu.main]]
+    identifier = "instructions"
+    name = "Instructions"
+    url = "/instructions"
+    weight = 2
   [[menu.main]]
     identifier = "posts"
     name = "Posts"
     url = "/posts"
-    weight = 2
+    weight = 3
   [[menu.main]]
     identifier = "faq"
     name = "F.A.Q"
     url = "/faq"
-    weight = 3
+    weight = 4
   [[menu.main]]
     identifier = "downloads"
     name = "Downloads"
     url = "/downloads"
-    weight = 4
+    weight = 5
   [[menu.main]]
     identifier = "webring"
     name = "WebRing"
     url = "https://webri.ng/webring/chads/random"
-    weight = 5
+    weight = 6

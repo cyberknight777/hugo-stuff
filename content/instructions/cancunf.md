@@ -108,7 +108,7 @@ e.g: YAAP-16-Banshee-cancunf-20250929.zip and yaap\_cancunf\_initial\_install.zi
 
 The initial install zip has the boot, vendor\_boot and vendor\_dlkm images bundled together.
 
-**You don’t need to \`fill your slots\` or \`flash Android 15 stock\` beforehand, as the ROMs already bundle Android 15 firmware, unless your device is on anything older than Android 14 May 2024 stock (U1TDS34.94-12-7-5), in which case you’ll need to re-flash the same ROM to ensure both slots have post-ARB firmware.**
+**You don’t need to \`fill your slots\` or \`flash Android 15 stock\` beforehand, as the ROMs already bundle Android 15 firmware, unless your device is on anything older than Android 14 May 2024 stock (U1TDS34.94-12-7-5), in which case you’ll need to re-flash the same ROM (without formatting data) to ensure both slots have post-ARB firmware.**
 
 ### Flash the initial install zip
 
@@ -129,6 +129,7 @@ fastboot --skip-reboot update yaap_cancunf_initial_install.zip
 ```
 
 ### Format Data
+
 Once it has flashed without any errors, you may proceed by running ```fastboot reboot bootloader``` and subsequently ```fastboot reboot recovery```.
 
 Then you can choose the **Wipe data / Factory reset** option on your device to format the /data partition.
@@ -144,3 +145,27 @@ adb sideload YAAP-16-Banshee-cancunf-20250929.zip
 ```
 
 Once the process has been completed without any errors, proceed to reboot your device into your newly flashed ROM :)
+
+### Updating to a newer build
+
+To update to a newer build, you start by downloading the ROM zip and then you have two options:
+
+#### Flashing via the built-in Updater
+
+To flash via the built-in Updater:
+
+On ROMs that are in an Official status, they typically provide OTA updates. So, you can just go to the Updater and click Flash.
+
+On ROMs that are not in an Official status but provide an Updater that has a **Local Update** option, you can download the ROM zip in your phone and click **Local Update** then choose the downloaded file to start the update process.
+
+Once you have done either one of those things, you can reboot to boot into your newly updated ROM :)
+
+#### Sideloading in recovery
+
+To sideload in recovery, first you turn off your device, push and hold the power and volume button at the same time and release once the phone has booted into the Bootloader Mode.
+
+Open a Terminal / Command Prompt / PowerShell Terminal and run ```fastboot reboot recovery```.
+
+Then, choose the **Apply update from ADB / Apply update -> Apply update from ADB / Install update -> ADB Sideload** option on your device and then type ```adb sideload ``` in the Terminal and then drag-and-drop the ROM zip into the terminal and run it.
+
+Once the process has been completed without any errors, proceed to reboot your device into your newly updated ROM :)

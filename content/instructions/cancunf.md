@@ -10,14 +10,13 @@ toc: true
 Before we begin, let me make it perfectly clear that,
 
 ```
-/* Your warranty is now void.
-*
-* I am not responsible for bricked devices, dead SD cards,
-* thermonuclear war, or you getting fired because the alarm app failed. Please
-* do some research if you have any concerns about features included in this ROM
-* before flashing it! YOU are choosing to make these modifications, and if
-* you point the finger at me for messing up your device, I will laugh at you.
-*/
+Your warranty is now void.
+
+I am not responsible for bricked devices, dead SD cards, thermonuclear war,
+or you getting fired because the alarm app failed. Please do some research
+if you have any concerns about features included in this ROM before flashing it!
+YOU are choosing to make these modifications, and if you point the finger at me
+for messing up your device, I will laugh at you.
 ```
 
 as well as the fact that this guide is only meant to be followed for **Android 16 ROMs (and newer) which are based off of Android 15 Firmware.**
@@ -88,7 +87,7 @@ Type ```fastboot oem unlock ``` and paste your unique 20-character, alphanumeric
 e.g: 
 
 ```
-fastboot oem unlock 0A40040192024205#4C4D355631323030373731363031303332323239#BD008A672BA4746C2CE02328A2AC0C39F951A3E5#1F532800020000000000000000000000
+fastboot oem unlock MZMC6D342TBNNWI6TRP9
 ```
 
 If you have run the command correctly, your device's screen will confirm that your device is unlocked.

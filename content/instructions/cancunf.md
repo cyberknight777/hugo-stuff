@@ -12,11 +12,9 @@ Before we begin, let me make it perfectly clear that,
 ```
 Your warranty is now void.
 
-I am not responsible for bricked devices, dead SD cards, thermonuclear war,
-or you getting fired because the alarm app failed. Please do some research
-if you have any concerns about features included in this ROM before flashing it!
-YOU are choosing to make these modifications, and if you point the finger at me
-for messing up your device, I will laugh at you.
+I am not responsible for bricked devices, dead SD cards, thermonuclear war, or you getting fired because the alarm app failed.
+Please do some research if you have any concerns about features included in this ROM before flashing it!
+YOU are choosing to make these modifications, and if you point the finger at me for messing up your device, I will laugh at you.
 ```
 
 as well as the fact that this guide is only meant to be followed for **Android 16 ROMs (and newer) which are based off of Android 15 Firmware.**

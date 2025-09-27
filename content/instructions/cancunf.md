@@ -101,9 +101,9 @@ Now that you have unlocked the bootloader, download the following files from the
 - ROM zip.
 - Initial install zip.
 
-e.g: YAAP-16-Banshee-cancunf-20250929.zip and yaap\_cancunf\_initial\_install.zip
+e.g: YAAP-16-Banshee-cancunf-20250929.zip and yaap\_banshee\_cancunf\_initial\_install.zip
 
-The initial install zip has the boot, vendor\_boot and vendor\_dlkm images bundled together.
+The initial install zip has the boot and vendor\_boot images bundled together.
 
 **You don’t need to \`fill your slots\` or \`flash Android 15 stock\` beforehand, as the ROMs already bundle Android 15 firmware, unless your device is on anything older than Android 14 May 2024 stock (U1TDS34.94-12-7-5), in which case you’ll need to re-flash the same ROM (without formatting data) to ensure both slots have post-ARB firmware.**
 
@@ -122,12 +122,12 @@ Moving on, type ```fastboot --skip-reboot update ``` and then drag-and-drop the 
 e.g:
 
 ```
-fastboot --skip-reboot update yaap_cancunf_initial_install.zip
+fastboot --skip-reboot update yaap_banshee_cancunf_initial_install.zip
 ```
 
 ### Format Data
 
-Once it has flashed without any errors, you may proceed by running ```fastboot reboot bootloader``` and subsequently ```fastboot reboot recovery```.
+Once it has flashed without any errors, you may proceed by running ```fastboot reboot recovery```.
 
 Then you can choose the **Wipe data / Factory reset** option on your device to format the /data partition.
 

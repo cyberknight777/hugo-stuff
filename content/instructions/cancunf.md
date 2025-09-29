@@ -21,11 +21,13 @@ as well as the fact that this guide is only meant to be followed for **Android 1
 
 Also to add: This guide is ONLY for devices that are codenamed cancunf (G64 is cancunf as well) and that you need a PC to do this.
 
+WARN : The device should not have any Pending Updates otherwise you can't apply new rom
+
 ## Unlocking the Bootloader
 
 ### Setting up the environment
 
-First and foremost, install the [Google USB Drivers (Windows)](https://dl.google.com/android/repository/usb_driver_r13-windows.zip) on your PC. You can skip this step if you are on Linux or macOS.
+First and foremost, install the [Google USB Drivers (Windows)](https://dl.google.com/android/repository/usb_driver_r13-windows.zip) on your PC by right clicking "android_winusb" and install . You can skip this step if you are on Linux or macOS.
 
 Next, download and extract the Platform Tools required to unlock the bootloader and flash ROMs. You can get them from the links below:
 
@@ -41,7 +43,7 @@ Moving on, you need to enable OEM Unlocking toggle from the Developer Options pa
 
 If the phone is new, you would have to wait for 7 days before you can enable that toggle as it will be greyed out.
 
-To enable the Developer Options page, you would need to go to About Phone -> Device Details and Tap on the Build number for 7 times in the Settings app.
+To enable the Developer Options page, you would need to go to About Phone -> Device Identifiers and Tap on the Build number for 7 times in the Settings app.
 
 ### Getting Device ID
 
@@ -49,7 +51,10 @@ Then, you would need to get your **Device ID** to generate the Unlock Token.
 
 You do that by opening a Terminal / Command Prompt / PowerShell Terminal in the folder/directory where the Platform Tools are extracted.
 
-Run, ```fastboot oem get_unlock_data``` to get the Device ID.
+List of commands you need tu run one by one :
+-  ```adb devices```  : then a pop up show up saying “Allow USB debugging?” click 'Always allow'
+-  ```adb reboot bootloader``` : this reboots your phone into fastboot mode 
+-  ```fastboot oem get_unlock_data``` :  to get the Device ID.
 
 e.g:
 
@@ -101,7 +106,9 @@ Now that you have unlocked the bootloader, download the following files from the
 - ROM zip.
 - Initial install zip.
 
-e.g: YAAP-16-Banshee-cancunf-20250929.zip and yaap\_banshee\_cancunf\_initial\_install.zip
+Example : 
+-  YAAP-16-Banshee-cancunf-20250929.zip 
+-  yaap\_banshee\_cancunf\_initial\_install.zip 
 
 The initial install zip has the boot and vendor\_boot images bundled together.
 
@@ -133,7 +140,12 @@ Then you can choose the **Wipe data / Factory reset** option on your device to f
 
 ### Flash ROMs
 
-Finally, choose the **Apply update from ADB / Apply update -> Apply update from ADB / Install update -> ADB Sideload** option on your device and then type ```adb sideload ``` in the Terminal and then drag-and-drop the ROM zip into the terminal and run it.
+Finally, Now Choose these options on your device
+
+- **Apply update from ADB / Apply update**
+- **Apply update from ADB / Install update then ADB Sideload** 
+
+Then type ```adb sideload ``` in the Terminal and then drag-and-drop the ROM zip into the terminal and run it.
 
 e.g:
 

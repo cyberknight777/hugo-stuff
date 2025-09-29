@@ -74,7 +74,9 @@ e.g:
 
 To generate the unlock token, you'll need to merge the 5 lines of output into one string without any extra spaces or additional text. An example of that would be:
 
-```0A40040192024205#4C4D355631323030373731363031303332323239#BD008A672BA4746C2CE02328A2AC0C39F951A3E5#1F532800020000000000000000000000```
+```
+0A40040192024205#4C4D355631323030373731363031303332323239#BD008A672BA4746C2CE02328A2AC0C39F951A3E5#1F532800020000000000000000000000
+```
 
 Then, go to the [Motorola Unlock Website](https://en-us.support.motorola.com/app/standalone/bootloader/unlock-your-device-b). Login to your account and paste the **Device ID** string and click on **Can my device be unlocked?** to check eligibility for unlock, then accept the legal agreement and click on **Request Unlock key**.
 

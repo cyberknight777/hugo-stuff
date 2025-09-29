@@ -21,11 +21,13 @@ as well as the fact that this guide is only meant to be followed for **Android 1
 
 Also to add: This guide is ONLY for devices that are codenamed cancunf (G64 is cancunf as well) and that you need a PC to do this.
 
+Be warned that if you are already progressing with an update on Stock, you must complete the update, reboot to system and then follow the instructions to unlock the bootloader and flash ROMs.
+
 ## Unlocking the Bootloader
 
 ### Setting up the environment
 
-First and foremost, install the [Google USB Drivers (Windows)](https://dl.google.com/android/repository/usb_driver_r13-windows.zip) on your PC. You can skip this step if you are on Linux or macOS.
+First and foremost, install the [Google USB Drivers (Windows)](https://dl.google.com/android/repository/usb_driver_r13-windows.zip) on your PC by extracting the zip and right-clicking on the `android_winusb.inf` file then clicking install. You can skip this step if you are on Linux or macOS.
 
 Next, download and extract the Platform Tools required to unlock the bootloader and flash ROMs. You can get them from the links below:
 
@@ -48,6 +50,12 @@ To enable the Developer Options page, you would need to go to About Phone -> Dev
 Then, you would need to get your **Device ID** to generate the Unlock Token.
 
 You do that by opening a Terminal / Command Prompt / PowerShell Terminal in the folder/directory where the Platform Tools are extracted.
+
+Then, turn off your device, push and hold the power and volume down button at the same time and release once the phone has booted into the Bootloader Mode.
+
+Run ```fastboot devices``` to see if the device is detected.
+
+If you have installed the USB drivers properly, it will show that the device is connected.
 
 Run, ```fastboot oem get_unlock_data``` to get the Device ID.
 
@@ -73,12 +81,6 @@ Then, go to the [Motorola Unlock Website](https://en-us.support.motorola.com/app
 You will then receive an email with your Unlock Token. Check your spam folder if you had not received it. Within the email would contain a unique 20-character, alphanumeric code that you will use to unlock your device.
 
 ### Unlock process
-
-Turn off your device, push and hold the power and volume button at the same time and release once the phone has booted into the Bootloader Mode.
-
-Run ```fastboot devices``` to see if the device is detected.
-
-If you have installed the USB drivers properly, it will show that the device is connected.
 
 Type ```fastboot oem unlock ``` and paste your unique 20-character, alphanumeric code that you have received via email and run it.
 
@@ -109,7 +111,7 @@ The initial install zip has the boot and vendor\_boot images bundled together.
 
 ### Flash the initial install zip
 
-Turn off your device, push and hold the power and volume button at the same time and release once the phone has booted into the Bootloader Mode.
+Turn off your device, push and hold the power and volume down button at the same time and release once the phone has booted into the Bootloader Mode.
 
 Open a Terminal / Command Prompt / PowerShell Terminal and run ```fastboot reboot fastboot```.
 
@@ -159,7 +161,7 @@ Once you have done either one of those things, you can reboot to boot into your 
 
 #### Sideloading in recovery
 
-To sideload in recovery, first you turn off your device, push and hold the power and volume button at the same time and release once the phone has booted into the Bootloader Mode.
+To sideload in recovery, first you turn off your device, push and hold the power and volume down button at the same time and release once the phone has booted into the Bootloader Mode.
 
 Open a Terminal / Command Prompt / PowerShell Terminal and run ```fastboot reboot recovery```.
 

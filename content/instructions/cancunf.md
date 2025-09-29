@@ -43,7 +43,7 @@ Moving on, you need to enable OEM Unlocking toggle from the Developer Options pa
 
 If the phone is new, you would have to wait for 7 days before you can enable that toggle as it will be greyed out.
 
-To enable the Developer Options page, you would need to go to About Phone -> Device Details and Tap on the Build number for 7 times in the Settings app.
+To enable the Developer Options page, you would need to go to About Phone -> Device Identifiers and Tap on the Build number for 7 times in the Settings app.
 
 ### Getting Device ID
 

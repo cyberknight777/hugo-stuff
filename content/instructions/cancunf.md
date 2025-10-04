@@ -55,6 +55,12 @@ Then, turn off your device, push and hold the power and volume down button at th
 
 Run ```fastboot devices``` to see if the device is detected.
 
+An example output would be as such:
+
+```
+ZY22HZLCR2	fastboot
+```
+
 If you have installed the USB drivers properly, it will show that the device is connected.
 
 Run, ```fastboot oem get_unlock_data``` to get the Device ID.
@@ -118,6 +124,12 @@ Turn off your device, push and hold the power and volume down button at the same
 Open a Terminal / Command Prompt / PowerShell Terminal and run ```fastboot reboot fastboot```.
 
 Once the phone has booted into the FastbootD Mode, run ```fastboot devices``` to see if the device is detected.
+
+An example output would be as such:
+
+```
+ZY22HZLCR2	fastbootd
+```
 
 If it is not detected, you should re-read Unlocking the Bootloader part as to installing the relevant USB drivers.
 

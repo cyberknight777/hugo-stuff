@@ -10,7 +10,9 @@ I primarly do android kernel development(not a pro). In my opinion, a kernel is 
 
 I often do AOSP device development(kind of an amateur). I do it so I do not have to depend on others to run a custom ROM on my devices.
 
-I own a 13" MacBook Air M1 and 14" HP 14-bw053au. I use the MacBook mostly for documenting, browsing and occasional media playback. However for the other laptop, I use a GNU+Linux distribution called ```Arch Linux``` as I'm a Linux enthusiast. Yeah no, I'm not an arch fanboi, I just love using the distro as it fits my needs. I also use a window manager called i3 instead of using a desktop environment(been using i3 for about 3 now, ain't gonna change anytime soon).
+I own a 13" MacBook Air M1 and 14" HP 14-bw053au. I use the MacBook mostly for documenting, browsing and occasional media playback. However for the other laptop, I use a GNU+Linux distribution called ```Arch Linux``` as I'm a Linux enthusiast. Yeah no, I'm not an arch fanboi, I just love using the distro as it fits my needs. I also use a window manager called i3 instead of using a desktop environment(been using i3 for about 5 years now, ain't gonna change anytime soon).
+
+I also have a Minisforum UM690 Slim with 32GB DDR5 and 1TB NVMe. It runs ```Arch Linux``` with Hyprland as the wayland compositor.
 
 I can code in Rust, write bash scripts, write some amount of C/C++, VB.net and atm learning nim when I can.
 
@@ -20,21 +22,26 @@ I use github for my android kernel development stuff while I use gitlab for my p
 
 If you're on telegram, I'm sure you will see me almost always online on telegram. Some may even think I don't sleep at all. The truth is, I sleep when everyone is in deep sleep. Plus I don't close my telegram client because I do stuff and at times I switch to telegram to check messages.
 
-I am using an iPhone 15 Pro Max as my main phone alongside a OnePlus 7T Pro 5G McLaren Edition (hotdogg), Redmi Note 10 (sunny) and Motorola G54 5G (cancunf) as my secondary devices. I also own a Redmi Note 9 (merlin) yet I barely use it.
+I am using an iPhone 15 Pro Max as my main phone alongside a OnePlus 7T Pro 5G McLaren Edition (hotdogg), Redmi Note 10 (sunny) and Motorola G54 5G (cancunf) (2 of it) as my secondary devices. I also own a Redmi Note 9 (merlin) yet I barely use it.
 
 I'm PM friendly on any platform unless if you're gonna ask skid questions or gonna spam my inbox with logs. If you have any important queries to ask me, feel free to read my **[FAQ](https://cyberknight777.dev/faq)** & join my **[telegram chat](https://t.me/knightschat)** instead of just sending a *hi*.
 
 Some of the stuff I've done lately(projects/teams/contributions): 
 
 * Founder of **[NetErnels](https://github.com/neternels)**, A team to build nethunterized kernels for devices out there in the world.
-* Developer of **[knight-bot](https://gitlab.com/cyberknight777/knight-bot)**, A telegram bot written in rust with teloxide framework.
+* Developer of **[knight-bot](https://github.com/cyberknight777/knight-bot)**, A telegram bot written in rust with gramme.rs framework.
 * Developer of **[ThunderStrike-FrameWork](https://gitlab.com/cyberknight777/thunderstrike-framework)** *(unreleased)*, A framework intended to facilitate penetration testers with modules ranging from recon to actual pentesting.
 * Developer of **[DragonHeart](https://github.com/cyberknight777/dragonheart_kernel_oneplus_sm8150)**, An android linux kernel for the OnePlus 7 series devices.
+* Developer of **[DragonHeart](https://github.com/cyberknight777/dragonheart_kernel_motorola_cancunf)**, An android linux kernel for the Motorola G54 5G.
 * Developer of **[osfetch-rs](https://gitlab.com/cyberknight777/osfetch-rs)**, A fetch utility written in rust.
 * Developer of **[SpamProtection-rs](https://github.com/intellivoid/spamprotection-rust)**, A rust wrapper for SpamProtection API.
+* Developer of **[Yet Another Kernel Builder (YAKB)](https://github.com/cyberknight777/YAKB)**, An android linux kernel building script written in Bash.
+* Developer of **[DisplayFeatures](https://github.com/android_packages_apps_DisplayFeatures)**, An AOSP Package which hooks onto display settings to provide toggles for relevant display features.
 * Contributed in **[Pentesting-Framework](https://github.com/abhackerofficial/pentesting-framework)**, A bundle of penetration testing tools.
 * Contributed in **[rxfetch](https://github.com/mangeshrex/rxfetch)**, A fetch utility written in bash.
 * Contributed in **[PWN-Term](https://github.com/pwn-term)**, A neoterm fork based on termux packages with bleeding edge support.
+* Contributed in **[KProfiles](https://github.com/beakthoven/KProfiles)**, An android linux kernel module for kernelspace profile modes.
+* Contributed in **[KProfiles (Frontend)](https://github.com/KProfiles/android_packages_apps_KProfiles)**, An AOSP Package which hooks onto battery settings to provide toggles for KProfiles parameters.
 * A maintainer in **[PixelOS](https://pixelos.net)** - an AOSP fork aiming to provide a Pixel-like feel for sunny and cancunf.
 * A maintainer in **[YAAP](https://robotwombat.github.io/YAAP-website/)** - an AOSP fork whose main priority is code quality and usability for sunny and cancunf.
 * A maintainer in **[Paranoid Android](https://paranoidandroid.co)** - probably the best CAF/CLO based custom ROM for hotdogg and sunny.

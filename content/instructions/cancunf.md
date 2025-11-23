@@ -131,6 +131,18 @@ An example output would be as such:
 ZY22HZLCR2	fastbootd
 ```
 
+Remember, it has to say fastbootd, not fastboot. If it says fastboot, re-read the instructions again.
+
+The reason why you need to be in fastbootd and not bootloader (fastboot) is because you cannot flash images in bootloader due to Motorola implementing a sort of timestamp check within the bootloader which then results in an error like such:
+
+```
+Writing 'boot_b'                                   (bootloader) Preflash validation failed
+FAILED (remote: '')
+fastboot: error: Command failed
+```
+
+As such, you NEED to be in fastbootd to flash the initial install zip.
+
 If it is not detected, you should re-read Unlocking the Bootloader part as to installing the relevant USB drivers.
 
 Moving on, type ```fastboot --skip-reboot update ``` and then drag-and-drop the initial install zip into the terminal and run it.

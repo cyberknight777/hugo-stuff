@@ -4,11 +4,11 @@ date: 2021-09-04T01:50:45+08:00
 draft: false
 ---
 
-I'm knight, a 20 year old, you may know me as cyberknight777 on most social media platforms.
+I'm knight, a 23 year old, you may know me as cyberknight777 on most social media platforms.
 
-I primarly do android kernel development(not a pro). In my opinion, a kernel is like a baby, where you gotta set a pathway for the child's life and how to bring it up in the world. The same concept applies here. You choose what you want for your kernel which makes it stable and mature. I learn something new when I experiment with my kernel.
+I primarly do android kernel development. In my opinion, a kernel is like a baby, where you gotta set a pathway for the child's life and how to bring it up in the world. The same concept applies here. You choose what you want for your kernel which makes it stable and mature. I learn something new when I experiment with my kernel.
 
-I often do AOSP device development(kind of an amateur). I do it so I do not have to depend on others to run a custom ROM on my devices.
+I often do AOSP device development. I do it so I do not have to depend on others to run a custom ROM on my devices.
 
 I own a 13" MacBook Air M1 and 14" HP 14-bw053au. I use the MacBook mostly for documenting, browsing and occasional media playback. However for the other laptop, I use a GNU+Linux distribution called ```Arch Linux``` as I'm a Linux enthusiast. Yeah no, I'm not an arch fanboi, I just love using the distro as it fits my needs. I also use a window manager called i3 instead of using a desktop environment(been using i3 for about 5 years now, ain't gonna change anytime soon).
 

@@ -115,6 +115,8 @@ e.g: YAAP-16-Banshee-cancunf-20250929.zip and yaap\_banshee\_cancunf\_initial\_i
 
 The initial install zip has the boot and vendor\_boot images bundled together.
 
+The initial install zip serves to set up the initial installation environment, hence it is not updated since the original upload and **MUST NOT be used to root!**
+
 **You don’t need to \`fill your slots\` or \`flash Android 15 stock\` beforehand, as the ROMs already bundle Android 15 firmware, unless your device is on anything older than Android 14 May 2024 stock (U1TDS34.94-12-7-5), in which case you’ll need to re-flash the same ROM (without formatting data) to ensure both slots have post-ARB firmware.**
 
 ### Flash the initial install zip

@@ -36,14 +36,14 @@ Some of the stuff I've done lately(projects/teams/contributions):
 * Developer of **[osfetch-rs](https://gitlab.com/cyberknight777/osfetch-rs)**, A fetch utility written in rust.
 * Developer of **[SpamProtection-rs](https://github.com/intellivoid/spamprotection-rust)**, A rust wrapper for SpamProtection API.
 * Developer of **[Yet Another Kernel Builder (YAKB)](https://github.com/cyberknight777/YAKB)**, An android linux kernel building script written in Bash.
-* Developer of **[DisplayFeatures](https://github.com/android_packages_apps_DisplayFeatures)**, An AOSP Package which hooks onto display settings to provide toggles for relevant display features.
+* Developer of **[DisplayFeatures](https://github.com/cyberknight777/android_packages_apps_DisplayFeatures)**, An AOSP Package which hooks onto display settings to provide toggles for relevant display features.
 * Contributed in **[Pentesting-Framework](https://github.com/abhackerofficial/pentesting-framework)**, A bundle of penetration testing tools.
 * Contributed in **[rxfetch](https://github.com/mangeshrex/rxfetch)**, A fetch utility written in bash.
 * Contributed in **[PWN-Term](https://github.com/pwn-term)**, A neoterm fork based on termux packages with bleeding edge support.
 * Contributed in **[KProfiles](https://github.com/beakthoven/KProfiles)**, An android linux kernel module for kernelspace profile modes.
 * Contributed in **[KProfiles (Frontend)](https://github.com/KProfiles/android_packages_apps_KProfiles)**, An AOSP Package which hooks onto battery settings to provide toggles for KProfiles parameters.
 * A maintainer in **[PixelOS](https://pixelos.net)** - an AOSP fork aiming to provide a Pixel-like feel for sunny and cancunf.
-* A maintainer in **[YAAP](https://robotwombat.github.io/YAAP-website/)** - an AOSP fork whose main priority is code quality and usability for sunny and cancunf.
+* A maintainer in **[YAAP](https://yaaprom.org)** - an AOSP fork whose main priority is code quality and usability for sunny and cancunf.
 * A maintainer in **[Paranoid Android](https://paranoidandroid.co)** - probably the best CAF/CLO based custom ROM for hotdogg and sunny.
 
 * and many more where you can check in my git(hub/lab) repositories and you can see the progress of whatever I do in my **[telegram channel](https://t.me/cyberknight_777)**.

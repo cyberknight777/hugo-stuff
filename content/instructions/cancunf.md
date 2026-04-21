@@ -133,7 +133,16 @@ An example output would be as such:
 ZY22HZLCR2	fastbootd
 ```
 
-Remember, it has to say fastbootd, not fastboot. If it says fastboot, re-read the instructions again.
+Some operating systems may report FastbootD Mode as fastboot as well so to properly confirm if you are in FastbootD Mode, you may run ```fastboot getvar is-userspace```.
+
+An example output would be as such:
+
+```
+is-userspace: yes
+Finished. Total time: 0.001s
+```
+
+If it says no, re-read the instructions again.
 
 The reason why you need to be in fastbootd and not bootloader (fastboot) is because you cannot flash images in bootloader due to Motorola implementing a sort of timestamp check within the bootloader which then results in an error like such:
 

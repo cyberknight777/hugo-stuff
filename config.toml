@@ -1,5 +1,5 @@
 baseurl = "https://cyberknight777.dev"
-languageCode = "en-us"
+locale = 'en-us'
 title = 'Cyber Knight'
 theme = "hello-friend-ng"
 copyright = ""

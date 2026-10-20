@@ -2,7 +2,7 @@
 title: "Episode 51 - Kingdom of the Flies"
 date: 2026-10-20T22:49:28+08:00
 draft: false
-toc: false
+toc: true
 ---
 
 ## Introduction

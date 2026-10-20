@@ -125,3 +125,6 @@ enableSharingbuttons = true
     name = "WebRing"
     url = "https://webri.ng/webring/chads/random"
     weight = 6
+
+[markup.goldmark.renderer]
+  unsafe = true

@@ -28,7 +28,7 @@ I will continue supporting sunny, albeit at a much slower pace than before, unti
 As for cancunf, **Android 17** and **fenrir** by me will never see the light of day. I refuse to release unfinished work to a community that has been waiting months for it. This is where the parallel with *MGSV*'s Episode 51 gets resonated: much like the unreleased mission, the community will only ever get a glimpse of what could have been, through the screenshots of **Android 17** and **fenrir** on cancunf shown below.
 
 <div style="display: flex; gap: 10px; align-items: flex-start;">
-  <img src="/img/phantom.jpg" alt="Phantom" style="width: 50%; height: auto;">
+  <img src="/img/phantom.png" alt="Phantom" style="width: 50%; height: auto;">
   <img src="/img/pain.jpg" alt="Other" style="width: 50%; height: auto;">
 </div>
 

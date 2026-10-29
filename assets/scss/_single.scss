@@ -1,3 +1,6 @@
+@use "variables" as *;
+@use "mixins" as *;
+
 .post {
   width: 100%;
   max-width: 800px;
